@@ -1,6 +1,6 @@
 # Josh's Zoom Recordings
 
-## Sunday Office Hours
+## Sunday Office Hours [Link to repo](https://github.com/joshuanelsondev/office_hours)
 
 - 11/19 - [Recording](https://us06web.zoom.us/rec/share/Mn92aaWkUUm09bLT_nHBgEBddymrQf_qQ04rxH4JxU9Qw8UNgJvp9TZck_-GGpnc.yL3OudZ7jWWL2UZH), passcode: 0=j8zO&9
 
