@@ -1,6 +1,6 @@
 # Josh's Zoom Recordings
 
-## [Sunday Office Hours](https://github.com/joshuanelsondev/office_hours) - [repo](https://github.com/joshuanelsondev/office_hours) - [zoom link](https://us06web.zoom.us/j/89256360099)
+## Sunday Office Hours - [repo](https://github.com/joshuanelsondev/office_hours) - [zoom link](https://us06web.zoom.us/j/89256360099)
 
 - 11/19 - [Recording](https://us06web.zoom.us/rec/share/Mn92aaWkUUm09bLT_nHBgEBddymrQf_qQ04rxH4JxU9Qw8UNgJvp9TZck_-GGpnc.yL3OudZ7jWWL2UZH), passcode: 0=j8zO&9
 
@@ -14,7 +14,7 @@
 
 - 1/14 [Recording](https://us06web.zoom.us/rec/share/gc3_cUOxm0tGTKZ-eLPOX_K0roI_ptn7h4SX99w5M7f19O8I3fzOv29-GwA2SqP_.S1RIo_7WHx9Dk8mu) passcode: X8CSWJ.c
 
-## Topic Discussions
+## Topic Discussions - [repo](https://github.com/joshuanelsondev/topic_discussions) - [zoom link](https://us06web.zoom.us/j/85960424567)
 
 - 1/10 - [Recording](https://us06web.zoom.us/rec/share/WIwOmFh3wWJkIPZXAWT4RUqH_NTcOjWQ7SR6tz57btNFqgc1ODA93PKiiGEAzLgz.w-HeyGqa3rzBB4h1), passcode: 1^91UNM2
 
