@@ -1,4 +1,4 @@
-# Josh's Zoom Recordings
+# Josh's Zoom Recordings *** I've discontinued updating this repo for the links, I will be using the office hours and topic discussions repos.
 
 ## Sunday Office Hours - [repo](https://github.com/joshuanelsondev/office_hours) - [zoom link](https://us06web.zoom.us/j/89256360099)
 
